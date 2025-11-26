@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759132393 source:/home/student/Desktop/nnm23cs037/lab7/main.cpp
+	<iostream>
+	<cstring>
+
