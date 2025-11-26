@@ -73,6 +73,6 @@ g++ program.cpp -o program
 ## 👤 Author
 
 **Fragan Dsouza**
-3rd Year CSE, NMAMIT
+3rd Year CSE, NMAMIT <br>
 GitHub: [fragan7dsouza](https://github.com/fragan7dsouza)
 
